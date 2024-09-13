@@ -1,5 +1,3 @@
-# tag-and-probe-hf
-Repository for tag &amp; probe studies with signals
 I have decided to separate the code in several differents files.
 I prefer it that way because a full run can be long, so now we can do it part by part without taking to much testing time.
 The idea is that each code will take in input the last code and create an output.
